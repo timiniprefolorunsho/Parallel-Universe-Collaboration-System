@@ -11,3 +11,5 @@ U
 %tests/cross-reality-data-sync.test.ts,7/7/771786891af877f4d4ac9928ac4fc5d36e223c9a
 Z
 *contracts/divergence-point-management.clar,e/5/e579981eccd371720780f9b7e162a21e0f282fcf
+Y
+)tests/divergence-point-management.test.ts,d/7/d745372666887d5e7ab2b62a1dd59d869b300941

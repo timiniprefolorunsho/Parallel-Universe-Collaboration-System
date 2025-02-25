@@ -55,6 +55,11 @@ plan:
             path: contracts/cross-reality-data-sync.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: divergence-point-management
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/divergence-point-management.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: inter-universal-identification
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/inter-universal-identification.clar
