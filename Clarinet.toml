@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.cross-reality-data-sync]
+path = 'contracts/cross-reality-data-sync.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.inter-universal-identification]
 path = 'contracts/inter-universal-identification.clar'
 clarity_version = 2
