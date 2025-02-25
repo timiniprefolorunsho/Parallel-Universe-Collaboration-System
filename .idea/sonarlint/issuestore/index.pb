@@ -9,3 +9,5 @@ V
 &contracts/cross-reality-data-sync.clar,4/6/46dd022b265c8876a20725c2cc0a42bf0d925894
 U
 %tests/cross-reality-data-sync.test.ts,7/7/771786891af877f4d4ac9928ac4fc5d36e223c9a
+Z
+*contracts/divergence-point-management.clar,e/5/e579981eccd371720780f9b7e162a21e0f282fcf
